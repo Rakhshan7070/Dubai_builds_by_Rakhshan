@@ -1,2 +1,3 @@
 # Dubai_builds_by_Rakhshan
-Custom ROMs Motorola Moto Edge 30, mostly based on Lineage's Sources....
+Custom ROMs for Motorola Moto Edge 30, Based on lineage Kernel if not specially mentioned in releases.
+
