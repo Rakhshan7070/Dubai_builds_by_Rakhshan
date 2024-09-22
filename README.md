@@ -1,3 +1,1 @@
-# Dubai_builds_by_Rakhshan
-Custom ROMs for Motorola Moto Edge 30, Based on lineage Kernel if not specially mentioned in releases.
-
+Custom Roms for Motorola Moto Edge 30 (Neo) based on the following sources: https://github.com/Rakhshan7070/Local-Manifest/blob/lineage-21/dubaiA14.xml
